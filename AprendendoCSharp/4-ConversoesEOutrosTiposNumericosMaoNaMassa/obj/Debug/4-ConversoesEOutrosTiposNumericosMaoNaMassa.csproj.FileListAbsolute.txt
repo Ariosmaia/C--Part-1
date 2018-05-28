@@ -1,0 +1,6 @@
+C:\Users\i3\source\repos\AprendendoCSharp\4-ConversoesEOutrosTiposNumericosMaoNaMassa\bin\Debug\4-ConversoesEOutrosTiposNumericosMaoNaMassa.exe.config
+C:\Users\i3\source\repos\AprendendoCSharp\4-ConversoesEOutrosTiposNumericosMaoNaMassa\bin\Debug\4-ConversoesEOutrosTiposNumericosMaoNaMassa.exe
+C:\Users\i3\source\repos\AprendendoCSharp\4-ConversoesEOutrosTiposNumericosMaoNaMassa\bin\Debug\4-ConversoesEOutrosTiposNumericosMaoNaMassa.pdb
+C:\Users\i3\source\repos\AprendendoCSharp\4-ConversoesEOutrosTiposNumericosMaoNaMassa\obj\Debug\4-ConversoesEOutrosTiposNumericosMaoNaMassa.csproj.CoreCompileInputs.cache
+C:\Users\i3\source\repos\AprendendoCSharp\4-ConversoesEOutrosTiposNumericosMaoNaMassa\obj\Debug\4-ConversoesEOutrosTiposNumericosMaoNaMassa.exe
+C:\Users\i3\source\repos\AprendendoCSharp\4-ConversoesEOutrosTiposNumericosMaoNaMassa\obj\Debug\4-ConversoesEOutrosTiposNumericosMaoNaMassa.pdb

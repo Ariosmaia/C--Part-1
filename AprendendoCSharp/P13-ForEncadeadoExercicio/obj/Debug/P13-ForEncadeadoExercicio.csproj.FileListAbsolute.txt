@@ -1,0 +1,7 @@
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoExercicio\bin\Debug\P13-ForEncadeadoExercicio.exe.config
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoExercicio\bin\Debug\P13-ForEncadeadoExercicio.exe
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoExercicio\bin\Debug\P13-ForEncadeadoExercicio.pdb
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoExercicio\obj\Debug\P13-ForEncadeadoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoExercicio\obj\Debug\P13-ForEncadeadoExercicio.exe
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoExercicio\obj\Debug\P13-ForEncadeadoExercicio.pdb
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoExercicio\obj\Debug\P13-ForEncadeadoExercicio.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\i3\source\repos\AprendendoCSharp\5-CaracteresETextosMaoNaMassa\bin\Debug\5-CaracteresETextosMaoNaMassa.exe.config
+C:\Users\i3\source\repos\AprendendoCSharp\5-CaracteresETextosMaoNaMassa\bin\Debug\5-CaracteresETextosMaoNaMassa.exe
+C:\Users\i3\source\repos\AprendendoCSharp\5-CaracteresETextosMaoNaMassa\bin\Debug\5-CaracteresETextosMaoNaMassa.pdb
+C:\Users\i3\source\repos\AprendendoCSharp\5-CaracteresETextosMaoNaMassa\obj\Debug\5-CaracteresETextosMaoNaMassa.csproj.CoreCompileInputs.cache
+C:\Users\i3\source\repos\AprendendoCSharp\5-CaracteresETextosMaoNaMassa\obj\Debug\5-CaracteresETextosMaoNaMassa.exe
+C:\Users\i3\source\repos\AprendendoCSharp\5-CaracteresETextosMaoNaMassa\obj\Debug\5-CaracteresETextosMaoNaMassa.pdb
+C:\Users\i3\source\repos\AprendendoCSharp\5-CaracteresETextosMaoNaMassa\obj\Debug\5-CaracteresETextosMaoNaMassa.csprojResolveAssemblyReference.cache

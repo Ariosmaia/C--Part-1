@@ -1,0 +1,6 @@
+C:\Users\i3\source\repos\AprendendoCSharp\2-CriandoVariaveisMaoNaMassa\bin\Debug\2-CriandoVariaveisMaoNaMassa.exe.config
+C:\Users\i3\source\repos\AprendendoCSharp\2-CriandoVariaveisMaoNaMassa\bin\Debug\2-CriandoVariaveisMaoNaMassa.exe
+C:\Users\i3\source\repos\AprendendoCSharp\2-CriandoVariaveisMaoNaMassa\bin\Debug\2-CriandoVariaveisMaoNaMassa.pdb
+C:\Users\i3\source\repos\AprendendoCSharp\2-CriandoVariaveisMaoNaMassa\obj\Debug\2-CriandoVariaveisMaoNaMassa.csproj.CoreCompileInputs.cache
+C:\Users\i3\source\repos\AprendendoCSharp\2-CriandoVariaveisMaoNaMassa\obj\Debug\2-CriandoVariaveisMaoNaMassa.exe
+C:\Users\i3\source\repos\AprendendoCSharp\2-CriandoVariaveisMaoNaMassa\obj\Debug\2-CriandoVariaveisMaoNaMassa.pdb

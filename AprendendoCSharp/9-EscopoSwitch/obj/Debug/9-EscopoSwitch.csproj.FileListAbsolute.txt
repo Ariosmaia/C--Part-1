@@ -1,0 +1,7 @@
+C:\Users\i3\source\repos\AprendendoCSharp\9-EscopoSwitch\bin\Debug\9-EscopoSwitch.exe.config
+C:\Users\i3\source\repos\AprendendoCSharp\9-EscopoSwitch\bin\Debug\9-EscopoSwitch.exe
+C:\Users\i3\source\repos\AprendendoCSharp\9-EscopoSwitch\bin\Debug\9-EscopoSwitch.pdb
+C:\Users\i3\source\repos\AprendendoCSharp\9-EscopoSwitch\obj\Debug\9-EscopoSwitch.csprojResolveAssemblyReference.cache
+C:\Users\i3\source\repos\AprendendoCSharp\9-EscopoSwitch\obj\Debug\9-EscopoSwitch.csproj.CoreCompileInputs.cache
+C:\Users\i3\source\repos\AprendendoCSharp\9-EscopoSwitch\obj\Debug\9-EscopoSwitch.exe
+C:\Users\i3\source\repos\AprendendoCSharp\9-EscopoSwitch\obj\Debug\9-EscopoSwitch.pdb

@@ -1,0 +1,6 @@
+C:\Users\i3\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuanteMaoNaMassa\bin\Debug\3-CriandoVariaveisPontoFlutuanteMaoNaMassa.exe.config
+C:\Users\i3\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuanteMaoNaMassa\bin\Debug\3-CriandoVariaveisPontoFlutuanteMaoNaMassa.exe
+C:\Users\i3\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuanteMaoNaMassa\bin\Debug\3-CriandoVariaveisPontoFlutuanteMaoNaMassa.pdb
+C:\Users\i3\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuanteMaoNaMassa\obj\Debug\3-CriandoVariaveisPontoFlutuanteMaoNaMassa.csproj.CoreCompileInputs.cache
+C:\Users\i3\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuanteMaoNaMassa\obj\Debug\3-CriandoVariaveisPontoFlutuanteMaoNaMassa.exe
+C:\Users\i3\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuanteMaoNaMassa\obj\Debug\3-CriandoVariaveisPontoFlutuanteMaoNaMassa.pdb

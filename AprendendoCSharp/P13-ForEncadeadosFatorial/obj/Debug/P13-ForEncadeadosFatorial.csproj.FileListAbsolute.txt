@@ -1,0 +1,7 @@
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadosFatorial\bin\Debug\P13-ForEncadeadosFatorial.exe.config
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadosFatorial\bin\Debug\P13-ForEncadeadosFatorial.exe
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadosFatorial\bin\Debug\P13-ForEncadeadosFatorial.pdb
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadosFatorial\obj\Debug\P13-ForEncadeadosFatorial.csprojResolveAssemblyReference.cache
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadosFatorial\obj\Debug\P13-ForEncadeadosFatorial.csproj.CoreCompileInputs.cache
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadosFatorial\obj\Debug\P13-ForEncadeadosFatorial.exe
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadosFatorial\obj\Debug\P13-ForEncadeadosFatorial.pdb

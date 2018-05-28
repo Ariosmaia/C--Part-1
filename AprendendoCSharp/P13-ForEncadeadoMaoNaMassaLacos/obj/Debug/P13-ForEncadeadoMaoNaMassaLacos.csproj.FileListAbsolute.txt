@@ -1,0 +1,6 @@
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoMaoNaMassaLacos\bin\Debug\P13-ForEncadeadoMaoNaMassaLacos.exe.config
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoMaoNaMassaLacos\bin\Debug\P13-ForEncadeadoMaoNaMassaLacos.exe
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoMaoNaMassaLacos\bin\Debug\P13-ForEncadeadoMaoNaMassaLacos.pdb
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoMaoNaMassaLacos\obj\Debug\P13-ForEncadeadoMaoNaMassaLacos.csproj.CoreCompileInputs.cache
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoMaoNaMassaLacos\obj\Debug\P13-ForEncadeadoMaoNaMassaLacos.exe
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoMaoNaMassaLacos\obj\Debug\P13-ForEncadeadoMaoNaMassaLacos.pdb

@@ -1,0 +1,6 @@
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoMultiplosDe3\bin\Debug\P13-ForEncadeadoMultiplosDe3.exe.config
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoMultiplosDe3\bin\Debug\P13-ForEncadeadoMultiplosDe3.exe
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoMultiplosDe3\bin\Debug\P13-ForEncadeadoMultiplosDe3.pdb
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoMultiplosDe3\obj\Debug\P13-ForEncadeadoMultiplosDe3.csproj.CoreCompileInputs.cache
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoMultiplosDe3\obj\Debug\P13-ForEncadeadoMultiplosDe3.exe
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoMultiplosDe3\obj\Debug\P13-ForEncadeadoMultiplosDe3.pdb

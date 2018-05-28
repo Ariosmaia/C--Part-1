@@ -1,0 +1,6 @@
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoAprofundandoLaco\bin\Debug\P13-ForEncadeadoAprofundandoLaco.exe.config
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoAprofundandoLaco\bin\Debug\P13-ForEncadeadoAprofundandoLaco.exe
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoAprofundandoLaco\bin\Debug\P13-ForEncadeadoAprofundandoLaco.pdb
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoAprofundandoLaco\obj\Debug\P13-ForEncadeadoAprofundandoLaco.csproj.CoreCompileInputs.cache
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoAprofundandoLaco\obj\Debug\P13-ForEncadeadoAprofundandoLaco.exe
+C:\Users\i3\source\repos\AprendendoCSharp\P13-ForEncadeadoAprofundandoLaco\obj\Debug\P13-ForEncadeadoAprofundandoLaco.pdb
